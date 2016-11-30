@@ -10,14 +10,161 @@ Text Domain: cyb
 
 */
 
-h1 {
- size: 40px;   
+.stories {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.bar {
+    height: 20px;
+    width: 80%;
+    border-bottom: 2px solid black;
+}
+
+.programs {
+    margin-top: 30px;
+}
+
+.jumbotron {
+    min-height: 500px;
+    margin-top: 0;
+    background-image: url("./images/home-page.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
+.btn-info {
+    background-color: #ffd209;
+    border-radius: 6px;
+    border-color: #ffd209;
+    color: #011921;
+
+}
+
+.jumbotron .btn-info {
+    margin-top: 30px;
+    background-color: transparent;
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+.jumbotron .btn-info:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+
+}
+
+.custom-btn {
+    width: 70px;
+    height: 24px;
+    margin-left: -20px;
+    line-height: 12px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.navbar-btn {
+    width: 95px;
+    margin-left: 5px;
+}
+.header-band {
+    background-color: #011921;
+}
+#logo-main {
+    width: 30%;
+    display: block;
+    margin: auto;
+    padding: 25px;
+
+  }
+ 
+ .navbar-inverse {
+     background-color: #011921;
+     border-top-color: white;
+     border-top-style: solid;
+     border-top-width: 1px;
+       
+     border-bottom-color: white;
+     border-bottom-style: solid;
+     border-bottom-width: 1px;
+     
+     margin: 0;
+ }
+     
+     
+.cyb-footer {
+    background-color: #011921;
+    min-height:  220px;
+    font-size: 13px;
+  
+}
+
+.newsletter {
+    text-align: center;
+}
+
+#email-input {
+    margin-left: 65px;
+    width: 160px;
+    border-radius: 6px;
+    height: 20px;
+}
+
+
+.contact-us {
+    color: white;
+    text-align: center;
+   
+}
+
+.follow-us {
+    text-align:center;
+}
+
+.follow-us img {
+    width: 40px;
+    height: auto;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 3px;
+}
+.cyb-footer h3 {
+    color: white;
+    font-size: 20px;
+}
+
+.main-content {
+    color: black;
+}
+
+.main-content h1 {
+    margin:40px;
+    text-align: center;
+}
+
+#footer-content {
+    margin-top: 30px;
+}
 body {
-    background-color: lightgray;
+    background-color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.jumbotron h1 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 180px;
+}
+
+
+
 /* from style guide */
 
 #selector-1,

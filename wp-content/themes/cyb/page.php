@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-
+<div id="container">
    <div class="row">
       <div class="col-sm-12">
          <?php
@@ -9,4 +9,6 @@
          ?>
       </div> <!-- /.col -->
    </div> <!-- /.row -->   
+   
+    </div><!-- /.container -->
 <?php get_footer(); ?>

@@ -5,12 +5,12 @@
         <meta name="viewport" content="width=device-width" />
         <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_uri(); ?>" />
         
-                <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
    
         <?php wp_head(); ?>
         
- </head>
+     </head>
 
     <body <?php body_class(); ?>>
         
@@ -32,7 +32,7 @@
     <?php
     if (has_nav_menu('main-menu')) :
        wp_nav_menu([
-           'theme_location' => 'main-menu',
+          'theme_location' => 'main-menu',
           'depth'             => 2,
           'container'         => 'div',
           'container_class'   => 'navbar-collapse collapse',

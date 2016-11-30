@@ -4,7 +4,7 @@
 <?php get_header(); ?>
 
 <div class="jumbotron">
-    He
+    
 </div>
 
 <section id="content" role = "main" class = "col-sm-8">
