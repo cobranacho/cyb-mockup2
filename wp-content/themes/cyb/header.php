@@ -14,7 +14,7 @@
         <!-- Custom styles for this template -->
         <link href="<?php bloginfo('template_directory');?>/style.css" rel="stylesheet">
     
-    
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -25,8 +25,11 @@
 
     <body <?php body_class(); ?>>
         
-    <div id="nav" class="header-band">
-    <img id="logo-main" src="<?php bloginfo('template_directory'); ?>/images/compton_youth_main_logo.png" alt="CYB logo">
+    <div id="nav">
+      <div class="header-band">
+            <img id="logo-main" src="<?php bloginfo('template_directory'); ?>/images/compton_youth_main_logo.png" alt="CYB logo">
+      </div>
+
       <nav class="navbar navbar-inverse" role="navigation">
         <div class="container">
           <!-- Brand and toggle get grouped for better mobile display -->
@@ -47,14 +50,12 @@
         <ul class="nav navbar-nav navbar-right">
           <li><button type="button" class="btn btn-info navbar-btn"><strong>Enroll</strong></button></li>
           <li><button type="button" class="btn btn-info navbar-btn"><strong>Contribute </strong></button></li>
+
         </ul>
       </div>
-
 
 
         </div><!-- /.container-fluid -->
       </nav>
     </div><!-- #nav -->
         
-
-<div id="container">

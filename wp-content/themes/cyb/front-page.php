@@ -1,21 +1,31 @@
 
 <?php get_header(); ?>
 <div class="jumbotron">
-  <h1>
-    Make a difference make a difference
-  </h1>
-      <button type="button" class="btn btn-info center"><strong>Volunteer</strong></button>  
-   
-
+  <div class="container">
+    <h1 id="slogan">
+      Make a difference make a difference
+    </h1>
+    
+    <button type="button" class="btn btn-info center-block"><strong>Volunteer</strong></button>
+      
+    <div class="text-center">
+      <a href="#main">
+        <span class="glyphicon glyphicon-menu-down icon-size"></span>
+      </a>
+    </div>
   </div>
+</div>
   
   
-<div class="container main-content">
+<div class="container main-content" id="main">
       <div class="row">
 
         <div class="col-sm-10 col-sm-offset-1">
         
           <h1>Our Story</h1>
+          
+
+ 
           <p>
            Lorem ipsum dolor sit amet, et est civibus propriae, recusabo accusamus eos te.  Ut tos nisl consul sanctus.  Et vis latine nostrum, ad audire expetenda quo.  Ex denique inimicus eos.  Falli errem honestatis at cum, est no mundi propriae, pri an meis feugiat.
           </p>
