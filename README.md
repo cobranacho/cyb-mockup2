@@ -4,7 +4,7 @@ Wordpress CMS Project - CSS, Javascript, PHP
 
 ## Screenshot
 
-![alt text](screenshot.jpg "Compton YouthBuild Prototype")
+![alt text](screenshot.png "Compton YouthBuild Prototype")
 
 
 
