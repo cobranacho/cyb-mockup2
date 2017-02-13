@@ -67,3 +67,28 @@ function new_excerpt_more($more) {
 	return '<a class="moretag" href="'. get_permalink($post->ID) . '">  (read more)</a>';
 }
 add_filter('excerpt_more', 'new_excerpt_more');
+
+
+
+
+// My functions
+function display_images($type, $count) {
+    $images = array();
+    $j = 0;
+    for ($i = 0; $i < $count; $i++) {
+        $dir = get_stylesheet_directory_uri();
+        $img = $dir."/images/pics/".$type.$i.".jpg";
+        $picture = "<div class='col-xs-6 col-sm-4 col-md-3'><a class='fancybox' rel= $type href=$img><img src=$img class='picture img-thumbnail img-responsive'/></a></div>";
+ 
+        $images[$i] = $picture;
+    }
+    
+    
+
+    for ($i = 0; $i < $count; $i++) {
+        echo $images[$i];
+    }
+}
+
+
+ 

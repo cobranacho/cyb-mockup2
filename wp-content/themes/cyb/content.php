@@ -7,14 +7,14 @@
     
      <?php 
      if (has_post_thumbnail() ) {
-         the_post_thumbnail('post-thumbnail', ['class' => 'img-responsive', 'title' => 'Feature image']);
+         the_post_thumbnail('post-thumbnail', ['class' => 'img-rounded', 'title' => 'Feature image']);
      }
      ?>
-     	<h2 class="blog-post-title"><?php the_title(); ?></h2>
-     <?php
-     the_excerpt();
-     
-     ?>
+     	<h3 class="blog-post-title"><?php the_title(); ?></h3>
+     <div class="text-justify">
+     <?php the_excerpt(); ?>
+     </div>
+
 
 </div><!-- /.blog-post -->
 </div>

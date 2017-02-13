@@ -2,7 +2,7 @@
 
 
 <?php get_header(); ?>
-<div class="container-fluid">
+<div class="container">
     <div class="google-maps">
     
 
@@ -32,7 +32,7 @@
                 </p>
 
                 <p class="text-right">
-                    <button type="button" class="btn btn-info btn-sm send-btn"><strong>Send</strong></button>
+                    <button type="button" class="btn btn-info"><strong>Send</strong></button>
               </p>
               
 

@@ -1,0 +1,168 @@
+[05-Dec-2016 03:33:41 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php on line 4088
+[05-Dec-2016 03:33:41 UTC] PHP Stack trace:
+[05-Dec-2016 03:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[05-Dec-2016 03:33:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[05-Dec-2016 03:33:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   4. wp_ajax_delete_plugin() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   5. delete_plugins() /home/ubuntu/workspace/wp-admin/includes/ajax-actions.php:3821
+[05-Dec-2016 03:33:41 UTC] PHP   6. uninstall_plugin() /home/ubuntu/workspace/wp-admin/includes/plugin.php:836
+[05-Dec-2016 03:33:41 UTC] PHP   7. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1038
+[05-Dec-2016 03:33:41 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   9. Freemius::_uninstall_plugin_hook() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP  10. Freemius->_uninstall_plugin_event() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4342
+[05-Dec-2016 03:33:41 UTC] PHP  11. Freemius->send_install_update() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4293
+[05-Dec-2016 03:33:41 UTC] PHP  12. property_exists() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4088
+[05-Dec-2016 03:33:41 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php on line 4088
+[05-Dec-2016 03:33:41 UTC] PHP Stack trace:
+[05-Dec-2016 03:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[05-Dec-2016 03:33:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[05-Dec-2016 03:33:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   4. wp_ajax_delete_plugin() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   5. delete_plugins() /home/ubuntu/workspace/wp-admin/includes/ajax-actions.php:3821
+[05-Dec-2016 03:33:41 UTC] PHP   6. uninstall_plugin() /home/ubuntu/workspace/wp-admin/includes/plugin.php:836
+[05-Dec-2016 03:33:41 UTC] PHP   7. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1038
+[05-Dec-2016 03:33:41 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   9. Freemius::_uninstall_plugin_hook() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP  10. Freemius->_uninstall_plugin_event() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4342
+[05-Dec-2016 03:33:41 UTC] PHP  11. Freemius->send_install_update() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4293
+[05-Dec-2016 03:33:41 UTC] PHP  12. property_exists() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4088
+[05-Dec-2016 03:33:41 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php on line 4088
+[05-Dec-2016 03:33:41 UTC] PHP Stack trace:
+[05-Dec-2016 03:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[05-Dec-2016 03:33:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[05-Dec-2016 03:33:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   4. wp_ajax_delete_plugin() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   5. delete_plugins() /home/ubuntu/workspace/wp-admin/includes/ajax-actions.php:3821
+[05-Dec-2016 03:33:41 UTC] PHP   6. uninstall_plugin() /home/ubuntu/workspace/wp-admin/includes/plugin.php:836
+[05-Dec-2016 03:33:41 UTC] PHP   7. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1038
+[05-Dec-2016 03:33:41 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   9. Freemius::_uninstall_plugin_hook() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP  10. Freemius->_uninstall_plugin_event() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4342
+[05-Dec-2016 03:33:41 UTC] PHP  11. Freemius->send_install_update() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4293
+[05-Dec-2016 03:33:41 UTC] PHP  12. property_exists() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4088
+[05-Dec-2016 03:33:41 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php on line 4088
+[05-Dec-2016 03:33:41 UTC] PHP Stack trace:
+[05-Dec-2016 03:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[05-Dec-2016 03:33:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[05-Dec-2016 03:33:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   4. wp_ajax_delete_plugin() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   5. delete_plugins() /home/ubuntu/workspace/wp-admin/includes/ajax-actions.php:3821
+[05-Dec-2016 03:33:41 UTC] PHP   6. uninstall_plugin() /home/ubuntu/workspace/wp-admin/includes/plugin.php:836
+[05-Dec-2016 03:33:41 UTC] PHP   7. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1038
+[05-Dec-2016 03:33:41 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   9. Freemius::_uninstall_plugin_hook() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP  10. Freemius->_uninstall_plugin_event() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4342
+[05-Dec-2016 03:33:41 UTC] PHP  11. Freemius->send_install_update() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4293
+[05-Dec-2016 03:33:41 UTC] PHP  12. property_exists() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4088
+[05-Dec-2016 03:33:41 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php on line 4088
+[05-Dec-2016 03:33:41 UTC] PHP Stack trace:
+[05-Dec-2016 03:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[05-Dec-2016 03:33:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[05-Dec-2016 03:33:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   4. wp_ajax_delete_plugin() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   5. delete_plugins() /home/ubuntu/workspace/wp-admin/includes/ajax-actions.php:3821
+[05-Dec-2016 03:33:41 UTC] PHP   6. uninstall_plugin() /home/ubuntu/workspace/wp-admin/includes/plugin.php:836
+[05-Dec-2016 03:33:41 UTC] PHP   7. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1038
+[05-Dec-2016 03:33:41 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   9. Freemius::_uninstall_plugin_hook() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP  10. Freemius->_uninstall_plugin_event() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4342
+[05-Dec-2016 03:33:41 UTC] PHP  11. Freemius->send_install_update() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4293
+[05-Dec-2016 03:33:41 UTC] PHP  12. property_exists() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4088
+[05-Dec-2016 03:33:41 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php on line 4088
+[05-Dec-2016 03:33:41 UTC] PHP Stack trace:
+[05-Dec-2016 03:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[05-Dec-2016 03:33:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[05-Dec-2016 03:33:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   4. wp_ajax_delete_plugin() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   5. delete_plugins() /home/ubuntu/workspace/wp-admin/includes/ajax-actions.php:3821
+[05-Dec-2016 03:33:41 UTC] PHP   6. uninstall_plugin() /home/ubuntu/workspace/wp-admin/includes/plugin.php:836
+[05-Dec-2016 03:33:41 UTC] PHP   7. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1038
+[05-Dec-2016 03:33:41 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   9. Freemius::_uninstall_plugin_hook() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP  10. Freemius->_uninstall_plugin_event() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4342
+[05-Dec-2016 03:33:41 UTC] PHP  11. Freemius->send_install_update() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4293
+[05-Dec-2016 03:33:41 UTC] PHP  12. property_exists() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4088
+[05-Dec-2016 03:33:41 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php on line 4088
+[05-Dec-2016 03:33:41 UTC] PHP Stack trace:
+[05-Dec-2016 03:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[05-Dec-2016 03:33:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[05-Dec-2016 03:33:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   4. wp_ajax_delete_plugin() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   5. delete_plugins() /home/ubuntu/workspace/wp-admin/includes/ajax-actions.php:3821
+[05-Dec-2016 03:33:41 UTC] PHP   6. uninstall_plugin() /home/ubuntu/workspace/wp-admin/includes/plugin.php:836
+[05-Dec-2016 03:33:41 UTC] PHP   7. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1038
+[05-Dec-2016 03:33:41 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   9. Freemius::_uninstall_plugin_hook() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP  10. Freemius->_uninstall_plugin_event() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4342
+[05-Dec-2016 03:33:41 UTC] PHP  11. Freemius->send_install_update() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4293
+[05-Dec-2016 03:33:41 UTC] PHP  12. property_exists() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4088
+[05-Dec-2016 03:33:41 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php on line 4088
+[05-Dec-2016 03:33:41 UTC] PHP Stack trace:
+[05-Dec-2016 03:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[05-Dec-2016 03:33:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[05-Dec-2016 03:33:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   4. wp_ajax_delete_plugin() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   5. delete_plugins() /home/ubuntu/workspace/wp-admin/includes/ajax-actions.php:3821
+[05-Dec-2016 03:33:41 UTC] PHP   6. uninstall_plugin() /home/ubuntu/workspace/wp-admin/includes/plugin.php:836
+[05-Dec-2016 03:33:41 UTC] PHP   7. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1038
+[05-Dec-2016 03:33:41 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   9. Freemius::_uninstall_plugin_hook() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP  10. Freemius->_uninstall_plugin_event() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4342
+[05-Dec-2016 03:33:41 UTC] PHP  11. Freemius->send_install_update() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4293
+[05-Dec-2016 03:33:41 UTC] PHP  12. property_exists() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4088
+[05-Dec-2016 03:33:41 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php on line 4088
+[05-Dec-2016 03:33:41 UTC] PHP Stack trace:
+[05-Dec-2016 03:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[05-Dec-2016 03:33:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[05-Dec-2016 03:33:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   4. wp_ajax_delete_plugin() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   5. delete_plugins() /home/ubuntu/workspace/wp-admin/includes/ajax-actions.php:3821
+[05-Dec-2016 03:33:41 UTC] PHP   6. uninstall_plugin() /home/ubuntu/workspace/wp-admin/includes/plugin.php:836
+[05-Dec-2016 03:33:41 UTC] PHP   7. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1038
+[05-Dec-2016 03:33:41 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   9. Freemius::_uninstall_plugin_hook() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP  10. Freemius->_uninstall_plugin_event() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4342
+[05-Dec-2016 03:33:41 UTC] PHP  11. Freemius->send_install_update() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4293
+[05-Dec-2016 03:33:41 UTC] PHP  12. property_exists() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4088
+[05-Dec-2016 03:33:41 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php on line 4088
+[05-Dec-2016 03:33:41 UTC] PHP Stack trace:
+[05-Dec-2016 03:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[05-Dec-2016 03:33:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[05-Dec-2016 03:33:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   4. wp_ajax_delete_plugin() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   5. delete_plugins() /home/ubuntu/workspace/wp-admin/includes/ajax-actions.php:3821
+[05-Dec-2016 03:33:41 UTC] PHP   6. uninstall_plugin() /home/ubuntu/workspace/wp-admin/includes/plugin.php:836
+[05-Dec-2016 03:33:41 UTC] PHP   7. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1038
+[05-Dec-2016 03:33:41 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   9. Freemius::_uninstall_plugin_hook() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP  10. Freemius->_uninstall_plugin_event() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4342
+[05-Dec-2016 03:33:41 UTC] PHP  11. Freemius->send_install_update() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4293
+[05-Dec-2016 03:33:41 UTC] PHP  12. property_exists() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4088
+[05-Dec-2016 03:33:41 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php on line 4088
+[05-Dec-2016 03:33:41 UTC] PHP Stack trace:
+[05-Dec-2016 03:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[05-Dec-2016 03:33:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[05-Dec-2016 03:33:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   4. wp_ajax_delete_plugin() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   5. delete_plugins() /home/ubuntu/workspace/wp-admin/includes/ajax-actions.php:3821
+[05-Dec-2016 03:33:41 UTC] PHP   6. uninstall_plugin() /home/ubuntu/workspace/wp-admin/includes/plugin.php:836
+[05-Dec-2016 03:33:41 UTC] PHP   7. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1038
+[05-Dec-2016 03:33:41 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   9. Freemius::_uninstall_plugin_hook() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP  10. Freemius->_uninstall_plugin_event() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4342
+[05-Dec-2016 03:33:41 UTC] PHP  11. Freemius->send_install_update() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4293
+[05-Dec-2016 03:33:41 UTC] PHP  12. property_exists() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4088
+[05-Dec-2016 03:33:41 UTC] PHP Warning:  First parameter must either be an object or the name of an existing class in /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php on line 4088
+[05-Dec-2016 03:33:41 UTC] PHP Stack trace:
+[05-Dec-2016 03:33:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[05-Dec-2016 03:33:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[05-Dec-2016 03:33:41 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   4. wp_ajax_delete_plugin() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   5. delete_plugins() /home/ubuntu/workspace/wp-admin/includes/ajax-actions.php:3821
+[05-Dec-2016 03:33:41 UTC] PHP   6. uninstall_plugin() /home/ubuntu/workspace/wp-admin/includes/plugin.php:836
+[05-Dec-2016 03:33:41 UTC] PHP   7. do_action() /home/ubuntu/workspace/wp-admin/includes/plugin.php:1038
+[05-Dec-2016 03:33:41 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:524}() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP   9. Freemius::_uninstall_plugin_hook() /home/ubuntu/workspace/wp-includes/plugin.php:524
+[05-Dec-2016 03:33:41 UTC] PHP  10. Freemius->_uninstall_plugin_event() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4342
+[05-Dec-2016 03:33:41 UTC] PHP  11. Freemius->send_install_update() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4293
+[05-Dec-2016 03:33:41 UTC] PHP  12. property_exists() /home/ubuntu/workspace/wp-content/plugins/nextgen-gallery/freemius/includes/class-freemius.php:4088

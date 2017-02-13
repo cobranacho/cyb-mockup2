@@ -1,4 +1,12 @@
 <nav id="nav-below" class="navigation" role="navigation">
-<div class="nav-previous"><?php previous_post_link( '%link', '<span class="meta-nav">&larr;</span> %title' ); ?></div>
-<div class="nav-next"><?php next_post_link( '%link', '%title <span class="meta-nav">&rarr;</span>' ); ?></div>
+    <span id="pre">
+        <?php previous_post_link( '%link', '<i class="fa fa-arrow-circle-o-left fa-3x dir-nav" aria-hidden="true"></i>' ); ?>
+    </span>
+
+        <span id="next">
+          <?php next_post_link( '%link', '<i class="fa fa-arrow-circle-o-right fa-3x dir-nav" aria-hidden="true"></i>' ); ?>          
+        </span>
+
+        
+
 </nav>

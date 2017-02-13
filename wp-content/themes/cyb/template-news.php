@@ -105,24 +105,18 @@
     </div>
     
     <div class="row">
-        <section id="content" role = "main" class = "col-sm-8">
-    
-    <h1>About Us Page</h1>
-    
-    <?php if ( have_posts() ) : while( have_posts() ) : the_post(); ?>
+        <section id="content" role = "main" class = "col-xs-12 col-sm-10 col-sm-offset-1">
+            <?php $query = new WP_Query( array( 'post_type' => 'team', 'posts_per_page' => '4') ); ?>
+            <?php if ( $query->have_posts() ) : while ( $query->have_posts() ) : $query->the_post(); ?>
 
-    <?php get_template_part( 'entry' ); ?>
+                <div class="col-sm-3 text-center">
+                    <?php get_template_part( 'entry-team' ); ?>
+                </div>  
     
-    <?php comments_template(); ?>
-    
-    <?php endwhile; endif; ?>
-    
-
-
-    <?php get_template_part( 'nav', 'below' ); ?>
-</section>
-
+            <?php endwhile; endif; ?>
+        </section>
     </div>
+    
     
 </div>
 
